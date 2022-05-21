@@ -90,13 +90,14 @@ a[data-toggle="collapse"] {
 
 .box {
     height: 100px;
-    padding-top: 60px;
+    padding-top: 30px;
+    padding-bottom: 10px;
     text-align: center;
     border: 5px solid #000000;
     margin: auto;
     width: 340px;
     height: 100px;
-    background-color: #457aeb;
+    background-color: #8debf0;
     color: rgb(0, 0, 0);
 }
 
