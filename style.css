@@ -82,6 +82,32 @@ a[data-toggle="collapse"] {
   }
 }
 
-.content {
-    width: fit-content;
+#content {
+    width: 100%;
+}
+
+
+.box {
+    height: 100px;
+    padding-top: 60px;
+    text-align: center;
+    border: 5px solid #000000;
+    margin: auto;
+    width: 340px;
+    height: 100px;
+    background-color: #457aeb;
+    color: rgb(0, 0, 0);
+}
+
+.box:hover {
+    color: aquamarine;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+#boxx {
+    margin-bottom: 10px;
 }
