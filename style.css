@@ -97,12 +97,12 @@ a[data-toggle="collapse"] {
     margin: auto;
     width: 340px;
     height: 100px;
-    background-color: #8debf0;
+    background-color: #6890f5;
     color: rgb(0, 0, 0);
 }
 
 .box:hover {
-    color: aquamarine;
+    color: rgb(255, 255, 255);
 }
 
 .container {
